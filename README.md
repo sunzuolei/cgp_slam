@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## About
 
 It is the code for our paper, if it is useful for you, please cite our paper.
@@ -37,6 +38,10 @@ lab on the information filter.
 
 
 </br>**For more information, please contact [szl@mpig.com.cn](http://dwz.cn/samuel)**
+=======
+# cgp_slam
+The code for paper Mobile Robot Navigation based on Canonical Gaussian Parameterization
+>>>>>>> e692d9a12fe6cce283c0d556eb16bf30cfd607d7
 =======
 # cgp_slam
 The code for paper Mobile Robot Navigation based on Canonical Gaussian Parameterization
