@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-=======
-# cgp_slam
-The code for paper Mobile Robot Navigation based on Canonical Gaussian Parameterization
->>>>>>> e692d9a12fe6cce283c0d556eb16bf30cfd607d7
-
 ## About
 
 It is the code for our paper, if it is useful for you, please cite our paper.
