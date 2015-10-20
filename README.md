@@ -2,10 +2,10 @@
 
 It is the code for our paper, if it is useful for you, please cite our paper.
 ```
-@article{ÀîÓ°2015»ùÓÚÕıÔò¸ßË¹²ÎÊı»¯µÄÒÆ¶¯»úÆ÷ÈËµ¼º½£¬
-  title =        {»ùÓÚÕıÔò¸ßË¹²ÎÊı»¯µÄÒÆ¶¯»úÆ÷ÈËµ¼º½},
-  author =       {ÀîÓ°; Ëï×÷À×; ÕÅ²¨},
-  journal =      {¡°º½ÔË°²È«Óë¿ØÖÆ¹¤³Ì¡±2015ÄêÉÏº£ÊĞÑĞ¾¿ÉúÑ§ÊõÂÛÌ³},
+@article{æå½±2015åŸºäºæ­£åˆ™é«˜æ–¯å‚æ•°åŒ–çš„ç§»åŠ¨æœºå™¨äººå¯¼èˆªï¼Œ
+  title =        {åŸºäºæ­£åˆ™é«˜æ–¯å‚æ•°åŒ–çš„ç§»åŠ¨æœºå™¨äººå¯¼èˆª},
+  author =       {æå½±; å­™ä½œé›·; å¼ æ³¢},
+  journal =      {â€œèˆªè¿å®‰å…¨ä¸æ§åˆ¶å·¥ç¨‹â€2015å¹´ä¸Šæµ·å¸‚ç ”ç©¶ç”Ÿå­¦æœ¯è®ºå›},
   year =         {2015}
 }
 ```
@@ -35,5 +35,5 @@ part of a 2006 SLAM Summer School(Massachusetts Institute of Technology)
 lab on the information filter. 
 
 
-</br>**For more information, please contact [szl@mpig.com.cn](http://dwz.cn/samuel)**
+</br>**For more information, please contact ly@mpig.com.cn, [szl@mpig.com.cn](http://mpig.com.cn)**
 
